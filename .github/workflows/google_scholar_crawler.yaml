@@ -7,6 +7,8 @@ on:
 
 jobs:
   build:
+    # Runs only after GOOGLE_SCHOLAR_ID has been added in repository secrets.
+    if: ${{ secrets.GOOGLE_SCHOLAR_ID != '' }}
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
