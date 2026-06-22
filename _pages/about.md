@@ -20,7 +20,8 @@ Hello! I am **Zhao Kejun**, an undergraduate mathematics student at the [Nationa
 
 # Projects 
 
-## [Dynamical System View of Neural Networks--RNN, LSTM and Transformer] ----NVAITC Summer Student Research Programme
+## Dynamical System View of Neural Networks--RNN, LSTM and Transformer 
+----NVAITC Summer Student Research Programme
 
 
 <span class='anchor' id='notesandpapers'></span>
@@ -32,5 +33,5 @@ Here is a collection of notes and short papers I wrote along my learning journey
 <span class='anchor' id='contact'></span>
 
 # Contact
-[E-mail](e1156759@u.nus.edu)
+[e1156759@u.nus.edu](e1156759@u.nus.edu)
 [GitHub](https://github.com/ZhaoKejun).
