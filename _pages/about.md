@@ -26,8 +26,7 @@ Here is a collection of notes and short papers I wrote along my learning journey
 
 # Projects 
 
-## Dynamical System View of Neural Networks--RNN, LSTM and Transformer 
----- NVAITC Summer Student Research Programme
+- **Dynamical System View of Neural Networks--RNN, LSTM and Transformer**---- NVAITC Summer Student Research Programme
 
 <span class='anchor' id='contact'></span>
 
