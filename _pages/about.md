@@ -22,6 +22,8 @@ Hello! I am **Zhao Kejun**, an undergraduate mathematics student at the [Nationa
 
 Here is a collection of notes and short papers I wrote along my learning journey. Feel free to download and read them, but bear in mind that these notes may contain errors. 
 
+-[**Mathematical Foundations of Machine Learning**](https://github.com/ZhaoKejun/Math-for-ML)
+
 <span class='anchor' id='projects'></span>
 
 # Projects 
