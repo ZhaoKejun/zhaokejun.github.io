@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-Hello! I am **Zhao Kejun**, an undergraduate mathematics student at the [National University of Singapore](https://nus.edu.sg/), specializing in Operations Research and Data Analytics (ORDA). I am interested in the mathematical theories of AI and ML. 
+Hello! I am **Zhao Kejun**, an undergraduate mathematics student at the [National University of Singapore](https://nus.edu.sg/), specializing in Operations Research and Data Analytics (ORDA), interested in the mathematical theories of AI and ML. 
 <span class='anchor' id='education'></span>
 
 # Education
