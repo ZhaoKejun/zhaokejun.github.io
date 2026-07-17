@@ -30,6 +30,9 @@ This mega notes gives a self-contained introduction of machine learning principl
 # Projects 
 
 - **Dynamical System View of Neural Networks--RNN, LSTM and Transformer**---- NVAITC Summer Student Research Programme
+  Supervisor: Dr. Ivan Au Yeung @ NVAITC
+- **Hperbolic Dynamics and Related Topics**---- Math UROPS
+  Supervisor: Prof. Wei Daren @ NUS Math 
 
 <span class='anchor' id='contact'></span>
 
