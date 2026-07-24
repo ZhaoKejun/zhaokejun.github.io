@@ -14,9 +14,9 @@ Hello! I am **Zhao Kejun**, an undergraduate mathematics student at the [Nationa
 <span class='anchor' id='education'></span>
 
 # Education
-- **National University of Singapore** - Bsc(Hons) 2023---2027\\
-  Major in Mathematics with Specialization in Operations Research and Data Analytics (ORDA)\\
-  Minor in Computer Science
+- **National University of Singapore** - Bsc(Hons) 2023---2027
+  - Major in Mathematics with Specialization in Operations Research and Data Analytics (ORDA)
+  - Minor in Computer Science
 
 <span class='anchor' id='notesandpapers'></span>
 
@@ -25,6 +25,7 @@ Hello! I am **Zhao Kejun**, an undergraduate mathematics student at the [Nationa
 Here is a collection of notes and short papers I wrote along my learning journey. Feel free to download and read them, but bear in mind that these notes may contain errors. 
 
 -[**Mathematical Foundations of Machine Learning**](https://github.com/ZhaoKejun/Math-for-ML) (last updated: 17 July 2026)
+
 This mega notes gives a self-contained introduction of machine learning principles and techniques, and is suitable for STEM students who wish to learn machine learning from first principles. 
 
 The notes will be regularly updated to include more topics. 
