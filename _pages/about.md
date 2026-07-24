@@ -27,8 +27,10 @@ Hello! I am **Zhao Kejun**, an undergraduate mathematics student at the [Nationa
 Here is a collection of notes and short papers I wrote along my learning journey. Feel free to download and read them, but bear in mind that these notes may contain errors. 
 
 -[**Mathematical Foundations of Machine Learning**](https://github.com/ZhaoKejun/Math-for-ML) (last updated: 17 July 2026)
-This mega notes gives a self-contained introduction of machine learning principles and techniques, and is suitable for STEM students who wish to learn machine learning from first principles. The notes will be regularly updated to include more topics.
--[**Algorithmic Game Theory**]
+This mega notes gives a self-contained introduction of machine learning principles and techniques, and is suitable for STEM students who wish to learn machine learning from first principles. 
+
+The notes will be regularly updated to include more topics. 
+-[**Algorithmic Game Theory**](https://github.com/ZhaoKejun/Algorithmic-Game-Theory/blob/main/Algorithmic%20Game%20Theory.pdf) (last updated 25 July 2026)
 
 <span class='anchor' id='projects'></span>
 
