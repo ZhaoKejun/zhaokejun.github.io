@@ -14,10 +14,8 @@ Hello! I am **Zhao Kejun**, an undergraduate mathematics student at the [Nationa
 <span class='anchor' id='education'></span>
 
 # Education
-- **National University of Singapore** - Bsc(Hons) 2023---2027
-  
-  Major in Mathematics with Specialization in Operations Research and Data Analytics (ORDA)
-  
+- **National University of Singapore** - Bsc(Hons) 2023---2027\\
+  Major in Mathematics with Specialization in Operations Research and Data Analytics (ORDA)\\
   Minor in Computer Science
 
 <span class='anchor' id='notesandpapers'></span>
